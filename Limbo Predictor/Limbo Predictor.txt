@@ -1,0 +1,28 @@
+1 month = $30  
+2 months = $60  
+Lifetime = $120  
+
+Message me for payment:  
+Telegram: @two0398  
+Discord: r0bertyy  
+
+💰 Accepted payment methods:  
+- Crypto (LTC, BTC, ETH, etc.)  
+- PayPal  
+- Gift Cards (Amazon, Steam, etc.)  
+- And more (just ask)
+
+How it works:  
+Just enter the information about the last game:  
+- Server Seed  
+- Client Seed  
+- Encrypted Nonce  
+- Latest Game Multiplier  
+
+Then:  
+- Choose Payout Method (LTC)  
+- Enter your Total Bet  
+
+It will show:  
+- Your Chance of Winning  
+- The Next Game Multiplier
